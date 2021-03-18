@@ -1,0 +1,13 @@
+$border: 2px solid gray;
+$gap: 20px;
+
+.scss-demo {
+    margin-top: $gap * 2;
+    padding: $gap;
+    border-top: $border;
+
+h2 {
+    color: darkblue;
+    text-align: center;
+  }
+}

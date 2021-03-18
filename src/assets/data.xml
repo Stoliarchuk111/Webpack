@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <name>Bill Gates</name>
+    <company>Microsoft</company>
+    <age>48</age>
+  </user>
+  <user>
+    <name>Larry Page</name>
+    <company>Google</company>
+    <age>48</age>
+  </user>
+</users>
